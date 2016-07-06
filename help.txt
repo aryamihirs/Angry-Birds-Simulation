@@ -1,0 +1,35 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   ANGRY BIRDS >.<   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+- This is a simulation of the original Angry Birds game made in opengl 3
+
+Controls : 
+
+a - to increase the angle of the cannon with the floor.
+
+b - to increase the angle of the cannon with the floor.
+
+space - to shoot the ball.
+
+f - will increase the initial velocity of the ball.
+
+s - will decrease the same
+
+up arrow key - will zoom in the game scene.
+
+down arrow key - will zoom out the game scene.
+
+right arrow key - will pan the screen right.
+
+left arrow key - will pan the screen left.
+
+- You just have to try and hit the targets which themselves are rectangles.
+
+- there are two targets, you hit each of them to increase your score.
+
+- The collisions are taken place based on the rules on physics.
+
+- The OBJECTIVE of the game is to score the maximum points.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ANGRY BIRDS >.<   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
